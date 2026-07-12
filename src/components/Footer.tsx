@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
         <div className="text-center">
           <p className="text-gray-300 text-lg">
             Designed and built with passion © {currentYear}. Inspired by
-            Harinath.
+            Hyndhavi💖.
           </p>
         </div>
       </div>
