@@ -5,7 +5,7 @@ const Reviews: React.FC = () => {
 
   const handleViewAllReviews = () => {
     window.open(
-      "https://www.linkedin.com/services/page/05675133596b22b722/",
+      "https://www.linkedin.com/in/hyndhavi-reddy/",
       "_blank"
     );
   };
@@ -15,18 +15,18 @@ const Reviews: React.FC = () => {
       id: 1,
       image:
         "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
-      name: "Kirtivardhan Singh",
+      name: "Kirtivardhan",
       review:
-        "It was great working with Harinath. He is apt in what he does and does with a polite and professional attitude. He has revamped my resume and cover letter and optimized my profile as well. Would definitely recommend!",
+        "It was great working with Hyndhavi. She is apt in what he does and does with a polite and professional attitude. She has revamped my resume and cover letter and optimized my profile as well. Would definitely recommend!",
       rating: 5,
     },
     {
       id: 2,
       image:
         "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&w=800",
-      name: "MONICA RAY",
+      name: "MONICA",
       review:
-        "I really enjoyed working with Harinath. He was very professional and prompt. During the entire process he communicated very well and was open to my suggestions as well. I would recommend using him to help with your resume and cover letters needs to enhance your job search.",
+        "I really enjoyed working with Hyndhavi. She was very professional and prompt. During the entire process she communicated very well and was open to my suggestions as well. I would recommend using her to help with your resume and cover letters needs to enhance your job search.",
       rating: 5,
     },
   ];
