@@ -17,7 +17,7 @@ const Reviews: React.FC = () => {
         "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800",
       name: "Kirtivardhan",
       review:
-        "It was great working with Hyndhavi. She is apt in what he does and does with a polite and professional attitude. She has revamped my resume and cover letter and optimized my profile as well. Would definitely recommend!",
+        "It was great working with Hyndhavi. She is apt in what she does and does with a polite and professional attitude. She has revamped my resume and cover letter and optimized my profile as well. Would definitely recommend!",
       rating: 5,
     },
     {
